@@ -1,0 +1,9 @@
+rencanan pelatihan rpl 2022
+- programming languange
+  * php
+  * golang
+- framework
+  * javascript
+   > react
+  * php
+   > code icninter
